@@ -1,3 +1,8 @@
+body{
+    background-color: black;
+    text-align: center;
+}
+
 #pagetitle{
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     font-weight: normal;
@@ -9,4 +14,23 @@
 .anchorstyle{
     color: aquamarine;
     font-size: 16px;
+    text-align: center;
+}
+
+.h2titles{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: 300;
+    font-size: 42px;
+    color: white;
+}
+
+.articlestyle p{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: grey;
+    font-size: 21px;
+}
+
+#copyright{
+    text-align: right;
+    color: grey;
 }
